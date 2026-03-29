@@ -31,12 +31,12 @@ Error messages are shown instantly below each field
 On form submission:  
 All validations run again  
 Submission is blocked if any field is invalid  
+
 🎯 Validation Rules  
 Field	Rules  
 Name	Required, minimum 3 characters  
 Email	Must follow valid email format  
 Password	Minimum 6 characters  
-📸 Preview  
 
 A clean centered form with real-time validation feedback and error messages.  
 
@@ -46,11 +46,13 @@ Working with DOM events (input, submit)
 Using regular expressions for email validation  
 Improving user experience with instant feedback  
 Writing cleaner and modular validation functions  
+
 🔥 Future Improvements  
 Add success/invalid border colors dynamically  
 Show/hide password toggle  
 Add stronger password validation (special characters, numbers)  
 Improve UI design with animations  
+
 📌 How to Use  
 Clone the repository  
 
